@@ -1,7 +1,7 @@
 import time
 import pyautogui
 
-message = "p"
+message = "your text"
 n = 10
 time.sleep(3)
 
